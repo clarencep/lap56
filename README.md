@@ -1,15 +1,15 @@
-# lap53: Linux + Apache + PHP 5.3
+# lap56: Linux + Apache + PHP 5.6
 
 ## Install
 
 ```
-docker pull clarencep/lap52
+docker pull clarencep/lap56
 ```
 
 ## Run 
 
 ```
-docker run -d -v /path/to/your/web/root:/var/www/html -p 8080:80 --name lap52 clarencep/lap52
+docker run -d -v /path/to/your/web/root:/var/www/html -p 8080:80 --name lap56 clarencep/lap56
 ```
 
 ## Exposed Port: 80
