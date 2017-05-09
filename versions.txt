@@ -12,7 +12,7 @@ Server built:   Mar 22 2017 06:52:55
 
 Whereis Apache
 --------------
-httpd: /usr/sbin/httpd /usr/sbin/httpd.event /usr/sbin/httpd.worker /etc/httpd /usr/lib64/httpd
+httpd: /usr/sbin/httpd.worker /usr/sbin/httpd.event /usr/sbin/httpd /etc/httpd /usr/lib64/httpd
 
 PHP Version
 --------------
