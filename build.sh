@@ -2,7 +2,7 @@
 
 IMAGE_NAME=lap56:devel
 
-docker build -t clarencep/$IMAGE_NAME .
+docker build $* -t clarencep/$IMAGE_NAME .
 
 
 docker run --rm clarencep/$IMAGE_NAME sh -c '\
