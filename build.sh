@@ -1,6 +1,6 @@
 #!/bin/sh -xe
 
-IMAGE_NAME=lap56
+IMAGE_NAME=lap56:devel
 
 docker build -t clarencep/$IMAGE_NAME .
 
